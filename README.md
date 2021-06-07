@@ -3,7 +3,7 @@ This package used to format datetime with *** time ago statement. eg: '3 ساع�
 
 ## Usage
 
-> Suppose the current time is equal to `1400-03-17 17:59:59`
+> Suppose the current time is equal to `1400-03-17 18:00:00`
 
 ```
 import datetime  from  'persian-time-ago'
