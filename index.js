@@ -1,5 +1,6 @@
-import Timeago from "./src/timeagoModule.js";
+import TimeAgo from "./src/timeagoModule.js";
+
 export default (datetime) => {
-    var timeago = new Timeago(datetime)
-    return timeago.getTimeago();
-}
+    const timeago = new TimeAgo(datetime);
+    return timeago.getTimeAgo();
+};
