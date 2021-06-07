@@ -1,6 +1,14 @@
 ## persian-time-ago 
 This package used to format datetime with *** time ago statement. eg: '3 ساعت قبل'.
 
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/realsaeedhassani/persian-time-ago/blob/main/LICENSE)
+
+## Installation
+
+```npm i persian-time-ago```
+or
+```yarn add persian-time-ago```
+
 ## Usage
 
 > Suppose the current time is equal to `1400-03-17 18:00:00`
