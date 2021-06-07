@@ -1,6 +1,6 @@
 {
   "name": "persian-time-ago",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Converting a jalali datetime into a time ago",
   "main": "index.js",
   "type": "module",
