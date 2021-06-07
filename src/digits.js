@@ -1,6 +1,6 @@
 export function toEnglishDigits(str) {
     str = String(str);
-    var e = '۰'.charCodeAt(0);
+    let e = '۰'.charCodeAt(0);
     str = str.replace(/[۰-۹]/g, function (t) {
         return t.charCodeAt(0) - e;
     });
