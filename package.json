@@ -1,0 +1,23 @@
+{
+  "name": "persian-time-ago",
+  "version": "1.0.0",
+  "description": "Converting a datetime into a time ago",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realsaeedhassani/persian-time-ago.git"
+  },
+  "keywords": [
+    "timeago",
+    "javascript"
+  ],
+  "author": "Saeed Hassani Borzadaran",
+  "license": "MIT ",
+  "bugs": {
+    "url": "https://github.com/realsaeedhassani/persian-time-ago/issues"
+  },
+  "homepage": "https://github.com/realsaeedhassani/persian-time-ago#readme"
+}
