@@ -13,7 +13,7 @@ or
 
 > Suppose the current time is equal to `1400-03-17 18:00:00`
 
-```
+```js
 import datetime  from  'persian-time-ago'
 
 console.log(datetime('1400-03-17 17:59:59'))
