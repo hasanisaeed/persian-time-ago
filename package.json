@@ -1,6 +1,6 @@
 {
-  "name": "@realsaeedhassani/persian-time-ago",
-  "version": "1.0.10",
+  "name": "persian-time-ago",
+  "version": "1.0.13",
   "description": "Converting a jalali datetime into a time ago",
   "main": "index.js",
   "type": "module",
@@ -17,7 +17,7 @@
     "javascript"
   ],
   "author": "Saeed Hassani Borzadaran",
-  "license": "MIT ",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/realsaeedhassani/persian-time-ago/issues"
   },
