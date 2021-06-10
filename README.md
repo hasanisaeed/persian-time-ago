@@ -16,8 +16,6 @@ or
 ```js
 import datetime  from  'persian-time-ago'
 
-console.log(datetime('1400-03-17 17:59:59'))
-
 // Previous
 datetime('1400-03-17 17:59:59') // 1 ثانیه قبل
 datetime('1400-03-17 17:55:00') // 5 دقیقه قبل
