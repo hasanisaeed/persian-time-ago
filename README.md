@@ -1,5 +1,5 @@
 ## persian-time-ago 
-This package used to format datetime with *** time ago statement. eg: '3 ساعت قبل'.
+This package used to format datetime with `*** time ago` statement. eg: '3 ساعت قبل'.
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/realsaeedhassani/persian-time-ago/blob/main/LICENSE)
 
