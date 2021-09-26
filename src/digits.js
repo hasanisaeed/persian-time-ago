@@ -1,3 +1,6 @@
+/**
+* Convert Persian digits to English digits. 
+*/
 export function toEnglishDigits(str) {
     str = String(str);
     let e = '۰'.charCodeAt(0);
