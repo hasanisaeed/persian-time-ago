@@ -37,3 +37,7 @@ datetime('1400-03-28 18:00:00') // حدود 1 هفته بعد
 datetime('1400-04-17 18:00:00') // حدود 1 ماه  بعد
 datetime('1401-03-17 18:00:00') // حدود 1 سال  بعد
 ```
+
+## NPM Statistics
+
+[![NPM](https://nodei.co/npm/persian-time-ago.png)](https://nodei.co/npm/persian-time-ago/)
